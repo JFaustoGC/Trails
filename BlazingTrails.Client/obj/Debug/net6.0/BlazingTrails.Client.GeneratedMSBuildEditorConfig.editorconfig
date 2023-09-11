@@ -1,0 +1,95 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = BlazingTrails.Client
+build_property.RootNamespace = BlazingTrails.Client
+build_property.ProjectDir = /home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Client/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Client
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Client/Features/Home/HomePage.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvSG9tZS9Ib21lUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Client/Features/Home/SearchFilter.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvSG9tZS9TZWFyY2hGaWx0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Client/Features/Home/SearchPage.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvSG9tZS9TZWFyY2hQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Client/Features/Home/TrailCard.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvSG9tZS9UcmFpbENhcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Client/Features/Home/TrailDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvSG9tZS9UcmFpbERldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Client/Features/Home/TrailSearch.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvSG9tZS9UcmFpbFNlYXJjaC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Client/Features/Layout/Header.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvTGF5b3V0L0hlYWRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Client/Features/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvTGF5b3V0L01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Client/Features/ManageTrails/AddTrail/AddTrailPage.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvTWFuYWdlVHJhaWxzL0FkZFRyYWlsL0FkZFRyYWlsUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Client/Features/ManageTrails/EditTrail/EditTrailPage.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvTWFuYWdlVHJhaWxzL0VkaXRUcmFpbC9FZGl0VHJhaWxQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Client/Features/ManageTrails/Shared/ErrorAlert.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvTWFuYWdlVHJhaWxzL1NoYXJlZC9FcnJvckFsZXJ0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Client/Features/ManageTrails/Shared/FormFieldSet.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvTWFuYWdlVHJhaWxzL1NoYXJlZC9Gb3JtRmllbGRTZXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Client/Features/ManageTrails/Shared/FormSection.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvTWFuYWdlVHJhaWxzL1NoYXJlZC9Gb3JtU2VjdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Client/Features/ManageTrails/Shared/InputTime.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvTWFuYWdlVHJhaWxzL1NoYXJlZC9JbnB1dFRpbWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Client/Features/ManageTrails/Shared/SuccessAlert.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvTWFuYWdlVHJhaWxzL1NoYXJlZC9TdWNjZXNzQWxlcnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Client/Features/ManageTrails/Shared/TrailForm.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvTWFuYWdlVHJhaWxzL1NoYXJlZC9UcmFpbEZvcm0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Client/Features/ManageTrails/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvTWFuYWdlVHJhaWxzL19JbXBvcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 

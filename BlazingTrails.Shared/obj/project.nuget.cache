@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "O3/jHB63xZ5LZ7IgRaCJlLuX4n+/LV5lqOXGp3zXRG2jmQzkpHNMihBcU49QVdrFRDa1PMJz4JAJpQrox9dNjA==",
+  "success": true,
+  "projectFilePath": "/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Shared/BlazingTrails.Shared.csproj",
+  "expectedPackageFiles": [
+    "/home/fausto/.nuget/packages/fluentvalidation/10.3.3/fluentvalidation.10.3.3.nupkg.sha512",
+    "/home/fausto/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

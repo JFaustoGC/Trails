@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazingTrails.Client", "BlazingTrails.Client\BlazingTrails.Client.csproj", "{1FD43B0B-4232-4004-8CF1-A8D4E2CB87F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazingTrails.Api", "BlazingTrails.Api\BlazingTrails.Api.csproj", "{7B510192-DBEB-4E33-B04F-D0B40679ECC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazingTrails.Shared", "BlazingTrails.Shared\BlazingTrails.Shared.csproj", "{F5E6408F-ABB3-4587-A1FD-E158DFA9E5F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FD43B0B-4232-4004-8CF1-A8D4E2CB87F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD43B0B-4232-4004-8CF1-A8D4E2CB87F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD43B0B-4232-4004-8CF1-A8D4E2CB87F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD43B0B-4232-4004-8CF1-A8D4E2CB87F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B510192-DBEB-4E33-B04F-D0B40679ECC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B510192-DBEB-4E33-B04F-D0B40679ECC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B510192-DBEB-4E33-B04F-D0B40679ECC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B510192-DBEB-4E33-B04F-D0B40679ECC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5E6408F-ABB3-4587-A1FD-E158DFA9E5F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E6408F-ABB3-4587-A1FD-E158DFA9E5F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E6408F-ABB3-4587-A1FD-E158DFA9E5F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E6408F-ABB3-4587-A1FD-E158DFA9E5F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Shared/bin/Debug/net6.0/BlazingTrails.Shared.deps.json
+/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Shared/bin/Debug/net6.0/BlazingTrails.Shared.dll
+/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Shared/bin/Debug/net6.0/ref/BlazingTrails.Shared.dll
+/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Shared/bin/Debug/net6.0/BlazingTrails.Shared.pdb
+/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Shared/bin/Debug/net6.0/Microsoft.AspNetCore.Components.Web.dll
+/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Shared/bin/Debug/net6.0/Microsoft.AspNetCore.Components.Web.xml
+/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Shared/obj/Debug/net6.0/BlazingTrails.Shared.csproj.AssemblyReference.cache
+/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Shared/obj/Debug/net6.0/BlazingTrails.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Shared/obj/Debug/net6.0/BlazingTrails.Shared.AssemblyInfoInputs.cache
+/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Shared/obj/Debug/net6.0/BlazingTrails.Shared.AssemblyInfo.cs
+/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Shared/obj/Debug/net6.0/BlazingTrails.Shared.csproj.CoreCompileInputs.cache
+/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Shared/obj/Debug/net6.0/BlazingTrails.Shared.csproj.CopyComplete
+/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Shared/obj/Debug/net6.0/BlazingTrails.Shared.dll
+/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Shared/obj/Debug/net6.0/ref/BlazingTrails.Shared.dll
+/home/fausto/RiderProjects/BlazingTrails.Client/BlazingTrails.Shared/obj/Debug/net6.0/BlazingTrails.Shared.pdb
